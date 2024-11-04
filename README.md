@@ -2,6 +2,8 @@
 
 ![Impulse Wellness Logo](./ImpulseWellness-Logo.png)
 
+
+
 **Public releases of the Pro device by Impulse Wellness.**
 
 ## About Impulse Wellness
