@@ -12,7 +12,7 @@ At Impulse Wellness, our mission is to build engaging and immersive tools that h
 
 The **TinkerPro** is a cutting-edge Bluetooth device designed for precise Electromyography (EMG) and Inertial Measurement Unit (IMU) recording. Tailored for both research and professional health and wellness applications, the TinkerPro empowers users to monitor and analyze detailed physiological data in real time. Key features include:
 
-- **High-Fidelity EMG Recording**: Capture EMG data at up to **16,000 samples per second**, ensuring high-resolution insights into muscle activation patterns. Data is automatically saved to an organized CSV file, facilitating easy export and compatibility with alternative data analysis software.
+- **High-Fidelity EMG Recording**: Capture EMG data at up to **16,000 samples per second**, ensuring high-resolution insights into muscle activation patterns. Data is automatically saved to an organized CSV file, facilitating easy export and compatibility with your preferred data analysis software.
 - **Comprehensive IMU Data**: Equipped with accelerometers and gyroscopes, the TinkerPro provides precise acceleration and gyroscopic data, making it ideal for motion analysis, biomechanics research, and sports science.
 - **Multi-Device Synchronization**: Sync with up to **16 devices** simultaneously, enabling large-scale studies and multi-limb assessments without sacrificing data quality or consistency.
 - **Real-Time Data Visualization**:
