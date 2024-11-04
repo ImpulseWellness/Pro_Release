@@ -4,7 +4,7 @@
 
 
 
-**Public releases of the Pro device by Impulse Wellness.**
+**Public releases of the TinkerPro device by Impulse Wellness.**
 
 ## About Impulse Wellness
 
